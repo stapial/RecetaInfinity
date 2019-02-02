@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549142898195.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1486387614",
+    "id" : "56E27C17",
+    "lastKnownWriteTime" : 1549144432,
+    "last_content_update" : 1549144432990,
+    "path" : "~/github/RecetaInfinity/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "9,20",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

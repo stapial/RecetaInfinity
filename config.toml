@@ -7,11 +7,11 @@ theme = "infinity-hugo"
 
     # Navigation
     [params.navigation]
-        logo = "wally.png"
+        logo = false
         home = "Inicio"
-        about = "Quienes somos"
+        about = "Quiénes somos"
         service = "Catálogo"
-        contact = "Contact"
+        contact = "Contactanos"
 
     # Hero Area
     [params.hero]
@@ -27,17 +27,12 @@ theme = "infinity-hugo"
     # About Section
     [params.about]
         enable      = true
-        heading     = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
+        heading     = "Distribuidores exclusivos de Surf Prescriptions en Chile"
+        description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter."
+
 
         [[params.about.sliderItem]]
-            image   = "images/about/1.jpg"
-        [[params.about.sliderItem]]
-            image   = "images/about/2.jpg"
-        [[params.about.sliderItem]]
-            image   = "images/about/3.jpg"
-        [[params.about.sliderItem]]
-            image   = "images/about/2.jpg"
+            image   = "images/about/afiche.jpg"
 
     
     # Service Section
