@@ -1,28 +1,28 @@
-baseURL = "https://www.example.com"
-languageCode = "en-us"
-title = "Infinity Comming Soon Template By Themefisher"
+baseURL = "https://www.recetasurfera.cl"
+languageCode = "es-cl"
+title = "Surf Prescriptions Chile"
 theme = "infinity-hugo"
 
 [params]
 
     # Navigation
     [params.navigation]
-        logo = "images/logo.png"
-        home = "Home"
-        about = "About"
-        service = "Services"
+        logo = "wally.png"
+        home = "Inicio"
+        about = "Quienes somos"
+        service = "Catálogo"
         contact = "Contact"
 
     # Hero Area
     [params.hero]
         enable      = true
-        bg          = "images/header-bg.jpg"
-        title       = "BRING YOUR PRODUCT TO LIGHT"
-        subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-        btnText     = "Get Started"
+        bg          = "images/doc shaperoom.jpg"
+        title       = "Jeff 'Doc' Lausch en Chile!"
+        subtitle    = "Haz tu tabla soñada a la medida. Cupos limitados"
+        btnText     = "Más información"
         countdownYear = "2019"
-        countdownMonth = "12"
-        countdownDay  = "27"
+        countdownMonth = "03"
+        countdownDay  = "22"
 
     # About Section
     [params.about]

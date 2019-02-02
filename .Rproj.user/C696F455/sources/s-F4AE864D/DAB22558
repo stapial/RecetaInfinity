@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1498460705",
+    "hash" : "0",
     "id" : "DAB22558",
-    "lastKnownWriteTime" : 1549136881,
-    "last_content_update" : 1549136881,
+    "lastKnownWriteTime" : 1549140082,
+    "last_content_update" : 1549140082366,
     "path" : "~/github/RecetaInfinity/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "22,21",
+        "scrollLine" : "13"
     },
     "relative_order" : 1,
     "source_on_save" : false,
