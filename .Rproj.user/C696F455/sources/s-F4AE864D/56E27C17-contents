@@ -1,5 +1,5 @@
-baseURL = "https://www.recetasurfera.cl"
-languageCode = "es-cl"
+baseURL = "http://www.recetasurfera.cl"
+languageCode = "en-us"
 title = "Surf Prescriptions Chile"
 theme = "infinity-hugo"
 
@@ -7,7 +7,7 @@ theme = "infinity-hugo"
 
     # Navigation
     [params.navigation]
-        logo = false
+        logo = "images/logo.png"
         home = "Inicio"
         about = "Quiénes somos"
         service = "Catálogo"
