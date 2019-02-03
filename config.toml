@@ -11,7 +11,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         home = "Inicio"
         about = "Quiénes somos"
         service = "Doc en Chile"
-        contact = "Contactanos"
 
     # Hero Area
     [params.hero]
@@ -28,24 +27,41 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable      = true
         heading     = "Distribuidores exclusivos de Surf Prescriptions en Chile"
-             description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 22 de Marzo al 3 de Abril fabricando tablas, en colaboración con Puntas del Sur y Olaf Shapes (Califa Surfboards) . Haz tu nave a medida, shapeada por DOC y láminada/lijada por Olaf y personal capacitados y con experiencia en en Hawaii y la Gold Coast, Australia. Más información en el tab 'Doc en Chile'. Contáctanos en recetasurfera@gmail.com**"
+             description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 22 de Marzo al 3 de Abril fabricando tablas, en colaboración con Puntas del Sur y Olaf Shapes (Califa Surfboards) . Haz tu nave a medida, shapeada por DOC!!. Más información en el tab 'Doc en Chile'. Contáctanos en recetasurfera@gmail.com**"
 
         [[params.about.sliderItem]]
             image   = "images/about/afiche.jpg"
+            
+           [[params.about.sliderItem]]
+          image   = "images/about/wally.jpg"
+          
+          [[params.about.sliderItem]]
+          image   = "images/about/quiver.jpg"
+          
+          [[params.about.sliderItem]]
+          image   = "images/about/bushwacking-thang.jpg"
 
+[[params.about.sliderItem]]
+            image   = "images/about/moonshot-collage.png"
+          
+          [[params.about.sliderItem]]
+          image   = "images/about/tubo-lobos.jpg"
+              [[params.about.sliderItem]]
+          image   = "images/about/rafa-lobos.jpg"
+          
     
     # Service Section
     [params.service]
         enable      = true
-        title       = "Haz tu nave con Doc EN Chile"
-        subtitle    = "Una colaboracíon con Puntas del Sur y Olaf Shapes"
+        title       = "Doc en Chile: colaboración con puntas del surf y olaf shapes"
+        subtitle    = "Para más detalles y cotizaciones, escribe a recetasurfera@gmail.com"
         [[params.service.serviceItem]]
             # give icon(themefisher icon font), title, description
             # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
             # use delay for reveal items one by one
             icon    = "tf-beaker"
             title   = "Hecha a la medida"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            description = "Junto con Doc diseñaremos la tabla ideal para las condiciones de surf, tu estilo, experiencia, peso y estatura"
             delay   = "0s"
 
         [[params.service.serviceItem]]
@@ -54,7 +70,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-tools"
             title   = "Doc shapea tu tabla"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            description = "Luego del corte en maquina, Doc hace el shape customizado a tu tabla. 40 años de experiencia"
             delay   = "0.2s"
 
         [[params.service.serviceItem]]
@@ -63,7 +79,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-ion-eye"
             title   = "Live Shaping"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            description = "Posibilidad de coordinar visita a la fábrica Puntas del Sur en Quilpué mientras Doc la shapea"
             delay   = "0.4s"
 
         [[params.service.serviceItem]]
@@ -72,7 +88,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-chat"
             title   = "Meet and greet DOC"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            description = "Los primeros 10 riders en confirmar su receta con el predepósito de $80.000 están invitados a un evento con Doc"
             delay   = "0.6s"
         
         [[params.service.serviceItem]]
@@ -81,7 +97,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-circle-compass"
             title   = "Materiales Premium"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            description = "Materiales top of the line. Burford Blanks (#1 en australia), Tela hexcel, laminado customizado, maquína preshape APS3000"
             delay   = "0.8s"
 
         [[params.service.serviceItem]]
@@ -89,8 +105,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
             # use delay for reveal items one by one
             icon    = "tf-book-open"
-            title   = "Personal de apoyo calificado"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            title   = "Personal calificado"
+            description = "Personal capacitado en Hawaii (Kazuma Surfboards) y GoldCoast, Australia"
             delay   = "1s"
 
         [[params.service.serviceItem]]
@@ -99,7 +115,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-ion-clock"
             title   = "Cupos limitados"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            description = "Doc estará en Chile del 22 de marzo al 3 de Abril. Esta es una oportunidad única. No te quedes abajo! "
             delay   = "1.2s"
 
         [[params.service.serviceItem]]
@@ -107,11 +123,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
             # use delay for reveal items one by one
             icon    = "tf-ion-social-instagram-outline"
-            title   = "Síguenos en redes sociales"
-            description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+            title   = "Redes sociales"
+            description = "Síguenos en instagram @recetasurfera, @puntasdelsur, @olaf_shapes"
             delay   = "1.5s"
     
-    [params.contact]
-        enable      = true
-        title       = "Escribénos"
-        subtitle    = "Pra más detalles, escribenos a recetasurfera@gmail.com"
+
