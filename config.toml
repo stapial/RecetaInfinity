@@ -28,7 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable      = true
         heading     = "Distribuidores exclusivos de Surf Prescriptions en Chile"
-        description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 22 de Marzo al 3 de Abril fabricando tablas!. Haz tu nave a medida, hecha por DOC Contáctanos en recetasurfera@gmail.com**"
+        description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 22 de Marzo al 3 de Abril fabricando tablas!. Haz tu nave a medida, hecha por DOC. Contáctanos en recetasurfera@gmail.com**"
 
         [[params.about.sliderItem]]
             image   = "images/about/afiche.jpg"
@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Service Section
     [params.service]
         enable      = true
-        title       = "Haz tu nave con Doc"
+        title       = "Haz tu nave con Doc EN Chile"
         subtitle    = "Una colaboracíon con Puntas del Sur y Olaf Shapes"
         [[params.service.serviceItem]]
             # give icon(themefisher icon font), title, description
