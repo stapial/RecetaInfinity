@@ -33,8 +33,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ .Site.BaseURL }}#contact">
                             {{ with .Site.Params.navigation.contact }} {{ . }} {{ end }}
-                        </a>
-                    </li>
+                             {{ with .Site.Params.navigation.home }} {{ . }} {{ end }}
+                    </a>
+                </li>
                 {{ end }}
             </ul>
         </div>

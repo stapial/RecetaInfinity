@@ -4,6 +4,19 @@ title = "Surf Prescriptions Chile"
 theme = "infinity-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+#To do
+#make countdown smaller or put on top left
+#
+ [[menu.prepend]]
+    url = "http://www.surfprescriptions.com/boards.html"
+    name = "Catálogo"
+    weight = 10
+
+    [[menu.postpend]]
+      url = "http://www.surfprescriptions.com/boards.html"
+      name = "Catálogo"
+      weight = 10
+      
 [params]
 
     # Navigation
@@ -17,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         enable      = true
         bg          = "images/doc-color-sm.png"
         title       = "Jeff 'Doc' Lausch en Chile!"
-        subtitle    = "Haz tu tabla soñada a la medida. Cupos limitados."
+        subtitle    = "¡¡¡¡CUPOS LIMITADOS!!!!"
         btnText     = "Más información"
         countdownYear = "2019"
         countdownMonth = "03"
@@ -27,7 +40,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable      = true
         heading     = "Distribuidores exclusivos de Surf Prescriptions en Chile"
-             description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 22 de Marzo al 3 de Abril fabricando tablas, en colaboración con Puntas del Sur y Olaf Shapes (Califa Surfboards) . Haz tu nave a medida, shapeada por DOC!!. Más información en el tab 'Doc en Chile'. Contáctanos en recetasurfera@gmail.com**"
+             description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 22 de Marzo al 3 de Abril fabricando tablas, en colaboración con Puntas del Sur y Olaf Shapes (Califa Surfboards) . Haz tu nave a medida, shapeada por DOC!! Contáctanos en recetasurfera@gmail.com**"
 
         [[params.about.sliderItem]]
             image   = "images/about/afiche.jpg"
@@ -106,7 +119,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-book-open"
             title   = "Personal calificado"
-            description = "Personal capacitado en Hawaii (Kazuma Surfboards) y GoldCoast, Australia"
+            description = "Personal de apoyo con experiencia y capacitado en Hawaii (Kazuma Surfboards) y GoldCoast, Australia"
             delay   = "1s"
 
         [[params.service.serviceItem]]
@@ -115,7 +128,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-ion-clock"
             title   = "Cupos limitados"
-            description = "Doc estará en Chile del 22 de marzo al 3 de Abril. Esta es una oportunidad única. No te quedes abajo! "
+            description = "Doc estará en Chile del 22 de marzo al 3 de Abril. Esta es una oportunidad única. No te quedes abajo! Facilidades de pago con tarjeta"
             delay   = "1.2s"
 
         [[params.service.serviceItem]]
@@ -126,5 +139,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             title   = "Redes sociales"
             description = "Síguenos en instagram @recetasurfera, @puntasdelsur, @olaf_shapes"
             delay   = "1.5s"
+  
     
-
