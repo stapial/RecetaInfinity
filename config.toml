@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.navigation]
         home = "Inicio"
         about = "Quiénes somos"
-        service = "Doc en Chile"
+        service = "Doc visita Chile"
 
     # Hero Area
     [params.hero]
