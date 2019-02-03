@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Hero Area
     [params.hero]
         enable      = true
-        bg          = "images/doc-shaperoom-color.jpg"
+        bg          = "images/doc-color-sm.png"
         title       = "Jeff 'Doc' Lausch en Chile!"
         subtitle    = "Haz tu tabla soñada a la medida. Cupos limitados."
         btnText     = "Más información"
