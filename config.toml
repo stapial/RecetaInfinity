@@ -4,19 +4,7 @@ title = "Surf Prescriptions Chile"
 theme = "infinity-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-#To do
-#make countdown smaller or put on top left
-#
- [[menu.prepend]]
-    url = "http://www.surfprescriptions.com/boards.html"
-    name = "Catálogo"
-    weight = 10
 
-    [[menu.postpend]]
-      url = "http://www.surfprescriptions.com/boards.html"
-      name = "Catálogo"
-      weight = 10
-      
 [params]
 
     # Navigation
@@ -24,6 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         home = "Inicio"
         about = "Quiénes somos"
         service = "Doc visita Chile"
+        contact = "Catálogo"
 
     # Hero Area
     [params.hero]
@@ -139,5 +128,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             title   = "Redes sociales"
             description = "Síguenos en instagram @recetasurfera, @puntasdelsur, @olaf_shapes"
             delay   = "1.5s"
-  
-    
+            
+     [params.contact]
+        enable = true
+        
