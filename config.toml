@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Navigation
     [params.navigation]
         home = "Inicio"
-        about = "Quiénes somos"
+        about = "Nosotros"
         service = "Doc visita Chile"
         contact = "Catálogo tablas"
 
