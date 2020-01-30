@@ -21,9 +21,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         title       = "Jeff 'Doc' Lausch en Chile!"
         subtitle    = "¡¡¡¡CUPOS LIMITADOS!!!!"
         btnText     = "Más información"
-        countdownYear = "2019"
+        countdownYear = "2020"
         countdownMonth = "03"
-        countdownDay  = "22"
+        countdownDay  = "03"
 
     # About Section
     [params.about]
