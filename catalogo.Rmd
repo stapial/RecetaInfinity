@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Catálogo de los últimos modelos de Surf Prescriptions
 
-[Cliquea aquí on en la imagen para ver los últimos modelos preferidos por los clientes de Surf Prescriptions](http://surfprescriptions.com/boards.html)
+[Cliquea aquí on en la imagen para ver los últimos modelos preferidos por los clientes de Surf Prescriptions](https://surfprescriptions.com/collections/all)
 
-[![Cliquea aquí on en la imagen para ver los últimos modelos preferidos por los clientes de Surf Prescriptions](/Users/seba/github/RecetaInfinity/public/images/about/bushwacking-thang.jpg)](http://www.surfprescriptions.com/boards.html)
+[![Cliquea aquí on en la imagen para ver los últimos modelos preferidos por los clientes de Surf Prescriptions](/Users/seba/github/RecetaInfinity/public/images/about/bushwacking-thang.jpg)](https://surfprescriptions.com/collections/all)
 ```{r pressure, echo=FALSE}
 
 ```
