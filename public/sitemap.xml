@@ -3,71 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/dummy/</loc>
-    <lastmod>2018-09-01T18:56:44+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://www.recetasurfera.cl/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/about.nb/</loc>
+    <loc>https://www.recetasurfera.cl/home/about.nb/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.recetasurfera.cl/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/home/</loc>
+    <loc>https://www.recetasurfera.cl/home/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://www.recetasurfera.cl/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://www.recetasurfera.cl/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://www.recetasurfera.cl/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://www.recetasurfera.cl/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/home/about/</loc>
+    <loc>https://www.recetasurfera.cl/home/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://www.recetasurfera.cl/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-09-01T18:56:44+06:00</lastmod>
+    <loc>https://www.recetasurfera.cl/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.recetasurfera.cl/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
