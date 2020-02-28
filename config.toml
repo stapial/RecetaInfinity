@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         btnText     = "Más información"
         countdownYear = "2020"
         countdownMonth = "03"
-        countdownDay  = "03"
+        countdownDay  = "12"
 
     # About Section
     [params.about]
