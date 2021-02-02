@@ -18,8 +18,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.hero]
         enable      = true
         bg          = "images/doc_logo_website.jpg"
-        title       = "Jeff 'Doc' Lausch en Chile!"
-        subtitle    = "¡¡¡¡CUPOS LIMITADOS!!!!"
+        title       = "Fecha de próxima visita por confirmar debido a COVID"
+        subtitle    = "¡¡¡¡Por mientras, encuentranos en waimea surfshop!!!!"
         btnText     = "Más información"
         countdownYear = "2020"
         countdownMonth = "03"
