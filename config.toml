@@ -29,7 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable      = true
         heading     = "Distribuidores exclusivos de Surf Prescriptions en Chile"
-             description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **Doc estará en Chile desde el 12 al 21 de Marzo del 2020 fabricando tablas, en colaboración con Puntas del Sur y Olaf Shapes (Califa Surfboards) . Haz tu nave a medida, shapeada por DOC!! Contáctanos en recetasurfera@gmail.com**"
+             description = "Surf Prescriptions es la marca del shaper Jeff 'Doc' Lausch, de Huntington Beach, California. Doc fábrica tablas hace 40 años, y las sigue fabricando él, sin relegar a terceros ni acudir a producción en masa en otros países. Usa los mejores materiales del mercado. Team riders incluyen Coco Nogales, Rafael Tapia, CJ Kanuha, Donavon Frankenreiter, Vince Boulanger y Tyler Gunter, entre otros. **La próxima visita de Doc está por confirmarse debido a la contingencia por covid-19. Probablemente Octubre 2021 o Marzo 2022. Haz tu nave a medida, shapeada por DOC!! Contáctanos en recetasurfera@gmail.com**"
 
         [[params.about.sliderItem]]
             image   = "images/about/afiche.jpg"
@@ -117,7 +117,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             # use delay for reveal items one by one
             icon    = "tf-ion-clock"
             title   = "Cupos limitados"
-            description = "Doc estará en Chile del 12 al 21 de Marzo del 2020. Esta es una oportunidad única. No te quedes abajo! Facilidades de pago con tarjeta"
+            description = "Próxima fecha por anunciarse debido a covid-19. Esta es una oportunidad única. No te quedes abajo! Facilidades de pago con tarjeta"
             delay   = "1.2s"
 
         [[params.service.serviceItem]]
